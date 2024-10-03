@@ -112,7 +112,7 @@
                     <i class="fas fa-bars"></i></span>
                 </button>
 
-                <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas offcanvas-end bg-body" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
                     <div class="offcanvas-header py-3">
                         <a class="navbar-brand user-select-none" href="/">
                             <img src="https://www.bpk.ac.th/bpknews/assets/images/img/logobaner.png" width="250" class="d-inline-block align-top">
